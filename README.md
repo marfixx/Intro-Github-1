@@ -9,3 +9,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ### Insertaremos una imagen
 
 ![hack](img/descarga.png)
+
+#### Inserte la imagen de las 3 Leyes de la abundancia
+
+![hack](img/3leyes.png)
